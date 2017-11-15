@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BintrayDemo.iml" filepath="$PROJECT_DIR$/BintrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BintrayLibraryExample.iml" filepath="$PROJECT_DIR$/BintrayLibraryExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-library/my-library.iml" filepath="$PROJECT_DIR$/my-library/my-library.iml" />
     </modules>
